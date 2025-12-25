@@ -1,7 +1,9 @@
 {
   "stats": {
-    "minecraft:killed": {
-      "minecraft:cow": 1
+    "minecraft:used": {
+      "minecraft:apple": 1,
+      "minecraft:spruce_sign": 1,
+      "minecraft:beef": 1
     },
     "minecraft:mined": {
       "minecraft:powder_snow": 5,
@@ -12,32 +14,34 @@
       "minecraft:packed_ice": 11
     },
     "minecraft:custom": {
-      "minecraft:time_since_rest": 10958,
-      "minecraft:walk_one_cm": 129132,
-      "minecraft:leave_game": 2,
+      "minecraft:time_since_rest": 189,
+      "minecraft:walk_one_cm": 144301,
+      "minecraft:leave_game": 3,
       "minecraft:mob_kills": 2,
-      "minecraft:walk_under_water_one_cm": 3688,
-      "minecraft:damage_taken": 1641,
+      "minecraft:walk_under_water_one_cm": 5885,
+      "minecraft:damage_taken": 2151,
       "minecraft:damage_dealt": 267,
-      "minecraft:play_time": 33467,
-      "minecraft:jump": 811,
-      "minecraft:time_since_death": 10913,
-      "minecraft:sprint_one_cm": 173375,
+      "minecraft:play_time": 39783,
+      "minecraft:jump": 1048,
+      "minecraft:time_since_death": 149,
+      "minecraft:sprint_one_cm": 219063,
       "minecraft:open_chest": 2,
-      "minecraft:fall_one_cm": 22372,
+      "minecraft:fall_one_cm": 28147,
       "minecraft:swim_one_cm": 56669,
-      "minecraft:total_world_time": 33467,
-      "minecraft:fly_one_cm": 71746,
-      "minecraft:walk_on_water_one_cm": 15283,
+      "minecraft:total_world_time": 39783,
+      "minecraft:fly_one_cm": 104546,
+      "minecraft:walk_on_water_one_cm": 15305,
       "minecraft:crouch_one_cm": 61,
-      "minecraft:sneak_time": 41,
+      "minecraft:sneak_time": 146,
       "minecraft:climb_one_cm": 1148,
-      "minecraft:deaths": 5
+      "minecraft:deaths": 8
     },
-    "minecraft:used": {
-      "minecraft:apple": 1,
-      "minecraft:spruce_sign": 1,
-      "minecraft:beef": 1
+    "minecraft:killed_by": {
+      "minecraft:skeleton": 2,
+      "minecraft:creeper": 2
+    },
+    "minecraft:killed": {
+      "minecraft:cow": 1
     },
     "minecraft:picked_up": {
       "minecraft:apple": 1,
@@ -46,10 +50,6 @@
       "minecraft:stick": 2,
       "minecraft:leather": 2,
       "minecraft:beef": 1
-    },
-    "minecraft:killed_by": {
-      "minecraft:skeleton": 1,
-      "minecraft:creeper": 2
     }
   },
   "DataVersion": 4671
